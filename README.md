@@ -16,3 +16,6 @@ Installer and sorter
 		"hide": "always",
 }
 ```
+## allowsymlinks.go
+1) go build it anywhere, it doesn't really matter
+2) idk I'll add the rest later
